@@ -8,8 +8,7 @@ import Footer from "@/components/footer";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "FaceAuth",
-  icons:"/logo.png"
+  title: "FaceNet",
 };
 
 
